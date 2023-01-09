@@ -2,9 +2,9 @@
 
 My Name is Ali
 
-- 👀 I’m interested in Data Science, Machine Learning, and Project Management
+- 😄 I’m interested in Programming, Data Science, Machine Learning, and Project Management
 - 🌱 I’m currently learning in Data Analytics
-- 💞️ I’m looking to collaborate on Data Science Project
+- 👯 I’m looking to collaborate on Data Science Project
 - 📫 How to Reach me [LinkedIn](https://www.linkedin.com/in/imrannasution/)
 
 
