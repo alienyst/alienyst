@@ -1,4 +1,13 @@
-### Hi there 👋
+### Ola! 👋
+
+My Name is Ali
+
+- 👀 I’m interested in Data Science, Machine Learning, and Project Management
+- 🌱 I’m currently learning in Data Analytics
+- 💞️ I’m looking to collaborate on Data Science Project
+- 📫 How to Reach me [LinkedIn](https://www.linkedin.com/in/imrannasution/)
+
+
 
 <!--
 **alienyst/alienyst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
