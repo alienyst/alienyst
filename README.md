@@ -1,4 +1,4 @@
-### Selam! 👋
+### Ola! 👋
 
 My Name is Ali
 
