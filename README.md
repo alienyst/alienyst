@@ -5,7 +5,7 @@ My Name is Ali
 - 😄 I’m interested in Programming, Data Science and Machine Learning
 - 🌱 I’m currently learning in Data Analytics
 - 👯 I’m looking to collaborate on Data Science Project
-- 📫 How to Reach me [LinkedIn](https://www.linkedin.com/in/imrannasution/)
+- 📫 How to Reach me [LinkedIn](https://www.linkedin.com/in/panggilsajaali/)
 
 
 
