@@ -2,8 +2,11 @@
 
 My Name is Ali
 
-- 😄 I’m interested in Programming, Data Science and Machine Learning
+- 😄 I’m interested in Programming, ERP, Data Science and Machine Learning
+- 🔭 I’m currently working as an Odoo ERP Developer
 - 📫 How to Reach me [LinkedIn](https://www.linkedin.com/in/panggilsajaali/) [Email](mailto:@aliimrandtb@gmail.com)
+
+Nice to meet you all!
 
 
 
